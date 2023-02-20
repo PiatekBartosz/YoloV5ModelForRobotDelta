@@ -1,0 +1,5 @@
+train: ../dataset/images/train
+val: ../dataset/images/val
+
+nc: 9 
+names: ['3-bit', 'Mars', 'Milkyway', 'Snickers', 'white50', 'black80circ', "black80rect", "white80circ", "white80rect"]
